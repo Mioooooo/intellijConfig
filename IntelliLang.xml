@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="Oracle" injector-id="xml">
+      <display-name>iBatis3: sql|select|insert|update|delete</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().oneOf("sql", "select", "insert", "update", "delete")).withNamespace(string().equalTo("http://jakarta.apache.org/taglibs/standard/permittedTaglibs"))]]></place>
+      <apply-to-subtags />
+    </injection>
+    <injection language="Oracle" injector-id="xml">
+      <display-name>insert</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("insert")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+  </component>
+</application>
