@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highContrast" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
@@ -11,6 +12,6 @@
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-1aa10dba:16fd2637247:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.1.0" />
   </component>
 </application>
