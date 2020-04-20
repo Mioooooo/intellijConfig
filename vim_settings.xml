@@ -30,7 +30,11 @@
     </jumps>
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text />
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
