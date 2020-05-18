@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://192.168.1.57:9000" />
-          <token>dfc8df99df9fdf98dfcedfc9df9fdf98df9ddfcedf9edf9bdf9edfccdf93df93df9edf93df99dfcfdfcbdf99df92df9adfcedf9cdf9edf98dfccdfc9df9fdfc9df9adfc8dfccdfcfdfc8df9fdfc8df93</token>
+          <token>df9bdf9edf9edf93df9ddfcedf9ddf9adfccdf9bdfc9df99df98dfccdfcedf9adf92df93dfc8df9edf99df99df93df93df9edf9bdf98df99dfc8dfc8df9cdf98dfcedfccdfccdfc8df9fdf9adf9bdf92</token>
           <option name="name" value="Mio" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
